@@ -1,4 +1,4 @@
-
+![logo](https://github.com/tmgnisc/tmgnisc/blob/main/check.jpeg)
 <h1 align="center">Hi 👋, I'm Nischal Tamang</h1>
 <h3 align="center">A passionate Full Stack developer. Specialize on FrontEnd with libary of React, Tailwind CSS, Typescript</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
