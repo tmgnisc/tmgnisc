@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tamangnischal2018@gmail.com**
 
-- 📄 Know about my experiences [nischaltamang.com.np](nischaltamang.com.np)
+- 📄 Know about my experiences [https://www.linkedin.com/in/nischal-tamang-08407b261/]
 
 - ⚡ Fun fact **I know but I don't know how I know**
 
