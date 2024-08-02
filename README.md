@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Sajha Connect Web Based Social Media App**
+- 🔭 I’m currently Learning  **DevOps**
 
-- 🌱 I’m currently learning **React Js, Java, Spring, Tailwind, Typescript, Javascript**
+- 🌱 I have expertise on **React Js, NodeJs, Tailwind, Typescript, Javascript**
 
 - 👨‍💻 All of my projects are available at [nischaltamang.com.np](nischaltamang.com.np)
 
