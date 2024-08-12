@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently Learning  **DevOps**
+- 🔭 I’m currently Learning  **Mern Stack**
 
-- 🌱 I have expertise on **React Js, NodeJs, Tailwind, Typescript, Javascript**
+- 🌱 I have expertise on **React Js, Tailwind, Typescript, Javascript**
 
 - 👨‍💻 All of my projects are available at [nischaltamang.com.np](nischaltamang.com.np)
 
