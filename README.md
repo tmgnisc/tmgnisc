@@ -1,103 +1,80 @@
 <div align="center">
 
-<img src="https://github.com/tmgnisc/tmgnisc/blob/main/check.jpeg" width="180"/>
-
-# Hi 👋 I'm Nischal Tamang
+# 👋 Hi, I'm Nischal Tamang
 
 ### 🚀 CTO & CEO @ Nirvix Technology
-### Full Stack Developer • Product Builder • AI Enthusiast • 3× Hackathon Winner
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+Innovative+SaaS+Products;Full+Stack+Developer;React+%7C+TypeScript+%7C+Java+%7C+Spring+Boot;AI+Automation+%26+IoT+Developer;Open+Source+Contributor;Always+Learning+Something+New"/>
+### Full Stack Developer • AI Engineer • Product Builder • 11× Hackathon Winner
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=tmgnisc&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/tmgnisc?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/tmgnisc?affiliations=OWNER&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+SaaS+Products;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Java+%7C+Spring+Boot+%7C+PHP;Startup+Founder+from+Nepal+🇳🇵;Always+Building+Something+New" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tmgnisc&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/tmgnisc?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/tmgnisc?affiliations=OWNER&style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-💼 CTO & CEO of **Nirvix Technology**
+🚀 CTO & CEO of **Nirvix Technology**
 
-🏆 3× Hackathon Winner
+🏆 11× Hackathon Winner
 
-🚀 Building AI-powered SaaS products & Business Automation
+🌍 Building scalable software for clients across **Nepal** and **New Zealand**
 
-🌱 Currently working on
+🤖 Passionate about Artificial Intelligence, SaaS, Automation, and IoT
 
-- 🤖 AI Review Intelligence Platform
-- 📱 Bulk SMS Platform
-- 🌍 International Client Projects
-- 🌡️ IoT Energy Saving Solution
-- ☁️ Cloud Infrastructure & DevOps
-
-💬 Ask me about
-
-- React
-- Next.js
-- TypeScript
-- Java
-- Spring Boot
-- PHP
-- Node.js
-- Tailwind CSS
-- UI/UX
-- AI Integration
-- System Architecture
-
-⚡ Fun Fact
-
-> I enjoy solving problems more than writing code.
+💡 I enjoy turning complex business problems into simple software solutions.
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Currently Building
+
+- 🤖 AI Review Intelligence Platform
+- 📱 Enterprise Bulk SMS Platform
+- 🌡️ IoT Energy Saving System
+- 🌍 New Zealand Business Directory
+- 📈 SEO Automation Platform
+- 💼 Business Process Automation
+
+---
+
+## 💻 Tech Stack
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite,figma"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite,figma&perline=10"/>
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,firebase,mysql"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,mysql,firebase,postgres&perline=10"/>
 </p>
 
 ### DevOps & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,cloudflare&perline=10"/>
 </p>
 
 ### Hardware & IoT
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10"/>
 </p>
-
----
-
-# 🚀 Current Focus
-
-- 🤖 Artificial Intelligence
-- 📈 SaaS Development
-- ☁️ Cloud Computing
-- 🔥 Startup Building
-- 📱 Mobile & Web Applications
-- 🌍 Open Source
-- 💼 Business Automation
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://nischaltamang.com.np">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -120,10 +97,29 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCLwqzLZHSZBwm_kk-olBAMw">
-<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
+# 🚀 Featured Expertise
+
+```text
+✔ Artificial Intelligence
+✔ SaaS Product Development
+✔ Full Stack Development
+✔ React & Next.js
+✔ Java Spring Boot
+✔ PHP Development
+✔ UI / UX Design
+✔ REST APIs
+✔ Cloud Infrastructure
+✔ DevOps
+✔ Business Automation
+✔ SEO Technical Optimization
+```
 
 ---
 
@@ -131,15 +127,15 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tmgnisc&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmgnisc&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnisc&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnisc&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tmgnisc&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=tmgnisc&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -149,7 +145,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tmgnisc&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tmgnisc&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </p>
 
@@ -159,16 +155,54 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tmgnisc&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tmgnisc&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action in your repository first.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/tmgnisc/tmgnisc/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Review Intelligence | AI-powered customer review analytics & business insights |
+| 📱 Bulk SMS Platform | Enterprise messaging solution for organizations |
+| 🌡️ IoT Energy Saver | Smart hardware solution for reducing energy consumption |
+| 🌍 Business Directory | Listing platform for New Zealand businesses |
+| 💼 Nirvix Technology | Building innovative software products and digital solutions |
+
+---
+
+# 📫 Contact
+
+📧 **Email:** tamangnischal2018@gmail.com
+
+🌐 **Portfolio:** https://nischaltamang.com.np
+
+💼 **Company:** Nirvix Technology
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/nischal-tamang-08407b261/
+
+---
+
 <div align="center">
 
-### 💙 "Transforming Ideas into Digital Reality"
+## 🚀 Transforming Ideas into Digital Reality
 
-**From Nepal 🇳🇵 Building Products for the World 🌍**
+### Building innovative software from Nepal 🇳🇵 for businesses worldwide 🌍
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=120&section=footer"/>
 
 </div>
