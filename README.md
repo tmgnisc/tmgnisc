@@ -5,9 +5,7 @@
 ### 🚀 CTO & CEO @ Nirvix Technology
 ### Full Stack Developer • AI Engineer • Product Builder • 11× Hackathon Winner
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+SaaS+Products;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Java+%7C+Spring+Boot+%7C+PHP;Startup+Founder+from+Nepal+🇳🇵;Always+Building+Something+New" alt="Typing SVG" />
-</p>
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=tmgnisc&label=Profile+Views&color=0e75b6&style=for-the-badge" />
