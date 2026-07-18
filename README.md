@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Nischal Tamang
 
 ### 🚀 CTO & CEO @ Nirvix Technology
-### Full Stack Developer • AI Engineer • Product Builder • 11× Hackathon Winner
+### Full Stack Developer • Technical SEO Specialist • Product Builder • 11× Hackathon Winner
 
 
 
