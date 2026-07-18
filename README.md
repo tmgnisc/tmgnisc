@@ -1,38 +1,174 @@
-![logo](https://github.com/tmgnisc/tmgnisc/blob/main/check.jpeg)
-<h1 align="center">Hi 👋, I'm Nischal Tamang</h1>
-<h3 align="center">A passionate Full Stack developer. Specialize on FrontEnd with libary of React, Tailwind CSS, Typescript</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmgnisc&label=Profile%20views&color=0e75b6&style=flat" alt="tmgnisc" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://github.com/tmgnisc/tmgnisc/blob/main/check.jpeg" width="180"/>
 
-- 🔭 I’m currently Learning  **Mern Stack**
+# Hi 👋 I'm Nischal Tamang
 
-- 🌱 I have expertise on **React Js, Tailwind, Typescript, Javascript**
+### 🚀 CTO & CEO @ Nirvix Technology
+### Full Stack Developer • Product Builder • AI Enthusiast • 3× Hackathon Winner
 
-- 👨‍💻 All of my projects are available at [nischaltamang.com.np](nischaltamang.com.np)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+Innovative+SaaS+Products;Full+Stack+Developer;React+%7C+TypeScript+%7C+Java+%7C+Spring+Boot;AI+Automation+%26+IoT+Developer;Open+Source+Contributor;Always+Learning+Something+New"/>
 
-- 💬 Ask me about **react, tailwind, java, Typescript, Javascript, C**
-
-- 📫 How to reach me **tamangnischal2018@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/nischal-tamang-08407b261/]
-
-- ⚡ Fun fact **I know but I don't know how I know**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006858643297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006858643297" height="30" width="40" /></a>
-<a href="https://instagram.com/nschal_tmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nschal_tmg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCLwqzLZHSZBwm_kk-olBAMw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclwqzlzhszbwm_kk-olbamw" height="30" width="40" /></a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=tmgnisc&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/tmgnisc?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/tmgnisc?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmgnisc&show_icons=true&locale=en&layout=compact" alt="tmgnisc" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmgnisc&show_icons=true&locale=en" alt="tmgnisc" /></p>
+## 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tmgnisc&" alt="tmgnisc" /></p>
+💼 CTO & CEO of **Nirvix Technology**
 
+🏆 3× Hackathon Winner
+
+🚀 Building AI-powered SaaS products & Business Automation
+
+🌱 Currently working on
+
+- 🤖 AI Review Intelligence Platform
+- 📱 Bulk SMS Platform
+- 🌍 International Client Projects
+- 🌡️ IoT Energy Saving Solution
+- ☁️ Cloud Infrastructure & DevOps
+
+💬 Ask me about
+
+- React
+- Next.js
+- TypeScript
+- Java
+- Spring Boot
+- PHP
+- Node.js
+- Tailwind CSS
+- UI/UX
+- AI Integration
+- System Architecture
+
+⚡ Fun Fact
+
+> I enjoy solving problems more than writing code.
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite,figma"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,firebase,mysql"/>
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode"/>
+</p>
+
+### Hardware & IoT
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino"/>
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Artificial Intelligence
+- 📈 SaaS Development
+- ☁️ Cloud Computing
+- 🔥 Startup Building
+- 📱 Mobile & Web Applications
+- 🌍 Open Source
+- 💼 Business Automation
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://nischaltamang.com.np">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:tamangnischal2018@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nischal-tamang-08407b261/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100006858643297">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/nschal_tmg">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCLwqzLZHSZBwm_kk-olBAMw">
+<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tmgnisc&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmgnisc&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tmgnisc&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tmgnisc&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tmgnisc&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 "Transforming Ideas into Digital Reality"
+
+**From Nepal 🇳🇵 Building Products for the World 🌍**
+
+</div>
